@@ -27,3 +27,5 @@ It combines **SQL** for data extraction and **Excel** for interactive visualizat
 - `Sales_Analysis_Project_WahidNageh.xlsx` → Excel dashboard with analysis.
 - `SQL_Scripts/sales_analysis_queries.sql` → SQL queries used for data analysis.
 - `README.md` → Project documentation.
+-- sync commit
+تحديث للتجربة

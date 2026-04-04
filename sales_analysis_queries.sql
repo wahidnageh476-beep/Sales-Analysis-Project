@@ -204,3 +204,4 @@ SELECT
 FROM discount_buckets
 GROUP BY discount_tier
 ORDER BY discount_tier;
+-- sync commit
