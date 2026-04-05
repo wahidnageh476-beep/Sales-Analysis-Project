@@ -33,3 +33,8 @@ It combines **SQL** for data extraction and **Excel** for interactive visualizat
 - `Sales_Analysis_Project_WahidNageh.xlsx` → Excel dashboard with analysis.
 - `SQL_Scripts/sales_analysis_queries.sql` → SQL queries used for data analysis.
 - `README.md` → Project documentation.
+<img width="809" height="163" alt="image" src="https://github.com/user-attachments/assets/1f4643f8-0aff-4fea-bb81-75873875d54a" />
+<img width="892" height="511" alt="image" src="https://github.com/user-attachments/assets/1c0b19f1-ef80-4dd7-b414-b332ac9bb351" />
+<img width="890" height="317" alt="image" src="https://github.com/user-attachments/assets/65fb04d0-e61e-47dd-8867-acb42e811c8d" />
+
+
